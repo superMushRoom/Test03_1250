@@ -19,11 +19,11 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     
-    NSLog(@"gsfss");
+    NSLog(@"afaff");
     
     NSLog(@"gsfss");
-    NSLog(@"gsfss");
-    NSLog(@"gsfss");
+    NSLog(@"asfasfasf");
+    NSLog(@"dsfff");
     NSLog(@"gsfss");
     NSLog(@"gsfss");
 
