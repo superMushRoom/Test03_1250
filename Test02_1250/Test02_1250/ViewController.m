@@ -23,22 +23,18 @@
     
     NSLog(@"gsfss");
     NSLog(@"asfasfasf");
-    NSLog(@"dsfff");
-    NSLog(@"gsfss");
-    NSLog(@"gsfss");
-
-    
     NSLog(@"gsfss");
     NSLog(@"gsfss");
     NSLog(@"gsfss");
-    NSLog(@"gsfss");
-
-    NSLog(@"gsfss");
+    NSLog(@"asfasfasf");
     NSLog(@"gsfss");
     NSLog(@"gsfss");
-
+    NSLog(@"gsfss");
+    NSLog(@"asfasfasf");
     NSLog(@"gsfss");
     NSLog(@"gsfss");
+    NSLog(@"gsfss");
+    NSLog(@"asfasfasf");
     NSLog(@"gsfss");
     NSLog(@"gsfss");
 
